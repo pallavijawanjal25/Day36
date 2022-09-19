@@ -1,0 +1,15 @@
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\bin\Debug\net6.0\Day36_MultiThreading.exe
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\bin\Debug\net6.0\Day36_MultiThreading.deps.json
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\bin\Debug\net6.0\Day36_MultiThreading.runtimeconfig.json
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\bin\Debug\net6.0\Day36_MultiThreading.dll
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\bin\Debug\net6.0\Day36_MultiThreading.pdb
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.csproj.AssemblyReference.cache
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.AssemblyInfoInputs.cache
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.AssemblyInfo.cs
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.dll
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\refint\Day36_MultiThreading.dll
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.pdb
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\Day36_MultiThreading.genruntimeconfig.cache
+C:\Users\palla\source\repos\184-RFP\Day36_MultiThreading\Day36_MultiThreading\obj\Debug\net6.0\ref\Day36_MultiThreading.dll
